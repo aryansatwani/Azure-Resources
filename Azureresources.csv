@@ -1,0 +1,8 @@
+﻿NAME,TYPE,LOCATION,
+"ac15166705e34b6b8483802f0f8c547e","Container registry","UAE North"
+"Application Insights Smart Detection","Action group","Global"
+"Aryan","Azure Machine Learning workspace","UAE North"
+"aryan0337156926","Application Insights","UAE North"
+"aryan4420878169","Storage account","UAE North"
+"aryan5751309390","Key vault","UAE North"
+"Failure Anomalies - aryan0337156926","Smart detector alert rule","Global"
